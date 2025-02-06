@@ -1,5 +1,5 @@
 # README
-衝撃的な内容のため削除されました。続きは以下のHPをご閲覧ください
+株式会社アピリッツの宮城と申します。
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
