@@ -1,4 +1,5 @@
 # README
+衝撃的な内容のため削除されました。続きは以下のHPをご閲覧ください
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
@@ -22,3 +23,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
